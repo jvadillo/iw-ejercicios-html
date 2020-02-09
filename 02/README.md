@@ -12,4 +12,4 @@ Puedes elegir la estructura y el contenido ha utilizar a vuestro criterio, siemp
 
 La imagen a continuación muestra un ejemplo de lo que podría ser el resultado final:
 
-![alt text](https://github.com/jvadillo/iw-ejercicios-css/blob/master/02/resultado.png "Resultado final")
+![alt text](https://github.com/jvadillo/iw-ejercicios-html/blob/master/02/resultado.png "Resultado final")
