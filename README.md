@@ -12,7 +12,7 @@ Este repositorio contiene distintos ejercicios para repasar lo aprendido sobre H
 La forma más sencilla para hacer los ejercicios es realizar un [Fork](https://help.github.com/es/github/getting-started-with-github/fork-a-repo) del repositorio. De esta forma tendrás una copia de este repositorio pero sera completamente independiente al original. Podrás trabajar sobre tu nuevo repositorio añadiendo las soluciones a los ejercicios.
 
 ### Qué es un Fork y cómo crearlo
-En este vide [(enlace)](https://www.youtube.com/watch?v=zyT0sl3-kxE) se explica rápidamente qué es un Fork y cómo realizarlo.
+En este vídeo [(enlace)](https://www.youtube.com/watch?v=zyT0sl3-kxE) se explica rápidamente qué es un Fork y cómo realizarlo.
 
 Si tienes más dudas sobre el uso de GIT, puedes consultar los siguientes vídeos:
 
